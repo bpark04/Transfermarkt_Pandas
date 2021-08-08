@@ -1,0 +1,101 @@
+number,name,position,age,nation,team,value
+1,Kylian Mbappé,Centre-Forward,22,France,Paris Saint-Germain,€160.00m
+2,Erling Haaland,Centre-Forward,21,Norway,Borussia Dortmund,€130.00m
+3,Harry Kane,Centre-Forward,28,England,Tottenham Hotspur,€120.00m
+4,Jadon Sancho,Right Winger,21,England,Manchester United,€100.00m
+5,Mohamed Salah,Right Winger,29,Egypt,Liverpool FC,€100.00m
+6,Romelu Lukaku,Centre-Forward,28,Belgium,Inter Milan,€100.00m
+7,Kevin De Bruyne,Attacking Midfield,30,Belgium,Manchester City,€100.00m
+8,Neymar,Left Winger,29,Brazil,Paris Saint-Germain,€100.00m
+9,Frenkie de Jong,Central Midfield,24,Netherlands,FC Barcelona,€90.00m
+10,Bruno Fernandes,Attacking Midfield,26,Portugal,Manchester United,€90.00m
+11,Joshua Kimmich,Defensive Midfield,26,Germany,Bayern Munich,€90.00m
+12,Raheem Sterling,Left Winger,26,England,Manchester City,€90.00m
+13,Marcus Rashford,Left Winger,23,England,Manchester United,€85.00m
+14,Sadio Mané,Left Winger,29,Senegal,Liverpool FC,€85.00m
+15,Heung-min Son,Left Winger,29,"Korea, South",Tottenham Hotspur,€85.00m
+16,Pedri,Central Midfield,18,Spain,FC Barcelona,€80.00m
+17,João Félix,Second Striker,21,Portugal,Atlético de Madrid,€80.00m
+18,Phil Foden,Left Winger,21,England,Manchester City,€80.00m
+19,Lautaro Martínez,Centre-Forward,23,Argentina,Inter Milan,€80.00m
+20,Marcos Llorente,Central Midfield,26,Spain,Atlético de Madrid,€80.00m
+21,Lionel Messi,Right Winger,34,Argentina,Without Club,€80.00m
+22,Mason Mount,Attacking Midfield,22,England,Chelsea FC,€75.00m
+23,Matthijs de Ligt,Centre-Back,21,Netherlands,Juventus FC,€75.00m
+24,Trent Alexander-Arnold,Right-Back,22,England,Liverpool FC,€75.00m
+25,Rúben Dias,Centre-Back,24,Portugal,Manchester City,€75.00m
+26,Marquinhos,Centre-Back,27,Brazil,Paris Saint-Germain,€75.00m
+27,Alphonso Davies,Left-Back,20,Canada,Bayern Munich,€70.00m
+28,Declan Rice,Defensive Midfield,22,England,West Ham United,€70.00m
+29,Rodri,Defensive Midfield,25,Spain,Manchester City,€70.00m
+30,Mikel Oyarzabal,Left Winger,24,Spain,Real Sociedad,€70.00m
+31,Federico Chiesa,Right Winger,23,Italy,Juventus FC,€70.00m
+32,Kai Havertz,Attacking Midfield,22,Germany,Chelsea FC,€70.00m
+33,Sergej Milinković-Savić,Central Midfield,26,Serbia,SS Lazio,€70.00m
+34,Bernardo Silva,Attacking Midfield,26,Portugal,Manchester City,€70.00m
+35,Raphaël Varane,Centre-Back,28,France,Real Madrid,€70.00m
+36,Serge Gnabry,Right Winger,26,Germany,Bayern Munich,€70.00m
+37,Leon Goretzka,Central Midfield,26,Germany,Bayern Munich,€70.00m
+38,Jan Oblak,Goalkeeper,28,Slovenia,Atlético de Madrid,€70.00m
+39,Casemiro,Defensive Midfield,29,Brazil,Real Madrid,€70.00m
+40,Bukayo Saka,Left Midfield,19,England,Arsenal FC,€65.00m
+41,Fede Valverde,Central Midfield,23,Uruguay,Real Madrid,€65.00m
+42,Gianluigi Donnarumma,Goalkeeper,22,Italy,Paris Saint-Germain,€65.00m
+43,Nicolò Barella,Central Midfield,24,Italy,Inter Milan,€65.00m
+44,Kingsley Coman,Left Winger,25,France,Bayern Munich,€65.00m
+45,Andrew Robertson,Left-Back,27,Scotland,Liverpool FC,€65.00m
+46,Jack Grealish,Left Winger,25,England,Aston Villa,€65.00m
+47,Timo Werner,Centre-Forward,25,Germany,Chelsea FC,€65.00m
+48,Ansu Fati,Left Winger,18,Spain,FC Barcelona,€60.00m
+49,Jules Koundé,Centre-Back,22,France,Sevilla FC,€60.00m
+50,Achraf Hakimi,Right-Back,22,Morocco,Paris Saint-Germain,€60.00m
+51,Gabriel Jesus,Centre-Forward,24,Brazil,Manchester City,€60.00m
+52,Dayot Upamecano,Centre-Back,22,France,Bayern Munich,€60.00m
+53,Alessandro Bastoni,Centre-Back,22,Italy,Inter Milan,€60.00m
+54,Wilfred Ndidi,Defensive Midfield,24,Nigeria,Leicester City,€60.00m
+55,José María Giménez,Centre-Back,26,Uruguay,Atlético de Madrid,€60.00m
+56,Fabinho,Defensive Midfield,27,Brazil,Liverpool FC,€60.00m
+57,Milan Skriniar,Centre-Back,26,Slovakia,Inter Milan,€60.00m
+58,Leroy Sané,Right Winger,25,Germany,Bayern Munich,€60.00m
+59,Antoine Griezmann,Second Striker,30,France,FC Barcelona,€60.00m
+60,Paul Pogba,Central Midfield,28,France,Manchester United,€60.00m
+61,Thibaut Courtois,Goalkeeper,29,Belgium,Real Madrid,€60.00m
+62,Alisson,Goalkeeper,28,Brazil,Liverpool FC,€60.00m
+63,Marc-André ter Stegen,Goalkeeper,29,Germany,FC Barcelona,€60.00m
+64,Koke,Central Midfield,29,Spain,Atlético de Madrid,€60.00m
+65,Robert Lewandowski,Centre-Forward,32,Poland,Bayern Munich,€60.00m
+66,Eduardo Camavinga,Central Midfield,18,France,Stade Rennais FC,€55.00m
+67,Jude Bellingham,Central Midfield,18,England,Borussia Dortmund,€55.00m
+68,Richarlison,Centre-Forward,24,Brazil,Everton FC,€55.00m
+69,Franck Kessié,Central Midfield,24,Cote d'Ivoire,AC Milan,€55.00m
+70,James Maddison,Attacking Midfield,24,England,Leicester City,€55.00m
+71,Youri Tielemans,Central Midfield,24,Belgium,Leicester City,€55.00m
+72,N'Golo Kanté,Defensive Midfield,30,France,Chelsea FC,€55.00m
+73,João Cancelo,Right-Back,27,Portugal,Manchester City,€55.00m
+74,Virgil van Dijk,Centre-Back,30,Netherlands,Liverpool FC,€55.00m
+75,Marco Verratti,Central Midfield,28,Italy,Paris Saint-Germain,€55.00m
+76,David Alaba,Centre-Back,29,Austria,Real Madrid,€55.00m
+77,Mason Greenwood,Right Winger,19,England,Manchester United,€50.00m
+78,Tanguy Ndombélé,Central Midfield,24,France,Tottenham Hotspur,€50.00m
+79,Victor Osimhen,Centre-Forward,22,Nigeria,SSC Napoli,€50.00m
+80,Pau Torres,Centre-Back,24,Spain,Villarreal CF,€50.00m
+81,Ferran Torres,Right Winger,21,Spain,Manchester City,€50.00m
+82,Theo Hernández,Left-Back,23,France,AC Milan,€50.00m
+83,Christian Pulisic,Right Winger,22,United States,Chelsea FC,€50.00m
+84,Dani Olmo,Attacking Midfield,23,Spain,RB Leipzig,€50.00m
+85,Ferland Mendy,Left-Back,26,France,Real Madrid,€50.00m
+86,Ousmane Dembélé,Right Winger,24,France,FC Barcelona,€50.00m
+87,Ederson,Goalkeeper,27,Brazil,Manchester City,€50.00m
+88,Paulo Dybala,Second Striker,27,Argentina,Juventus FC,€50.00m
+89,Piotr Zielinski,Attacking Midfield,27,Poland,SSC Napoli,€50.00m
+90,Harry Maguire,Centre-Back,28,England,Manchester United,€50.00m
+91,Roberto Firmino,Centre-Forward,29,Brazil,Liverpool FC,€50.00m
+92,Stefan de Vrij,Centre-Back,29,Netherlands,Inter Milan,€50.00m
+93,Lorenzo Insigne,Left Winger,30,Italy,SSC Napoli,€48.00m
+94,Kalidou Koulibaly,Centre-Back,30,Senegal,SSC Napoli,€48.00m
+95,Florian Wirtz,Attacking Midfield,18,Germany,Bayer 04 Leverkusen,€45.00m
+96,Fabián Ruiz,Central Midfield,25,Spain,SSC Napoli,€45.00m
+97,Diogo Jota,Left Winger,24,Portugal,Liverpool FC,€45.00m
+98,Diego Carlos,Centre-Back,28,Brazil,Sevilla FC,€45.00m
+99,Caglar Söyüncü,Centre-Back,25,Turkey,Leicester City,€45.00m
+100,Hirving Lozano,Right Winger,26,Mexico,SSC Napoli,€45.00m
